@@ -1,6 +1,6 @@
 numpy==1.11.2
 scipy==0.18.1
-pyyaml==3.12
+pyyaml==5.4
 h5py==2.6.0
 tensorflow==0.12.0rc1
 keras==1.0.3
